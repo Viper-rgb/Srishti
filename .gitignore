@@ -1,0 +1,8 @@
+.dart_tool/
+build/
+.gradle/
+.idea/
+node_modules/
+local.properties
+*.iml
+famtominibooking/

@@ -1,0 +1,1 @@
+const baseUrl='https://srishticampus.tech/bloodconnect/viavita_api';
